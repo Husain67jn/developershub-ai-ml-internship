@@ -1,0 +1,10 @@
+# Libraries Required
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+yfinance
+transformers
+accelerate
+datasets
