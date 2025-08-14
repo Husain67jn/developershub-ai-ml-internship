@@ -19,7 +19,17 @@ Visualization: Actual vs Predicted.
 Dataset: Yahoo Finance via yfinance
 Models: Linear Regression, Random Forest
 Plot: Actual vs Predicted.
-How to Run
+# How to Run
 Use Google Colab or Jupyter.
 pip install -r requirements.txt
 Open notebooks in /notebooks and run cells top to bottom.
+# Notes
+Health chatbot is informational only; not medical advice.
+Fine-tuning demo is trained on a small subset for time; use Colab GPU for better results.
+Git commands (quick)
+git init
+git add .
+git commit -m "DevelopersHub Internship Tasks"
+git branch -M main
+git remote add origin https://github.com/Husain67jn/developershub-ai-ml-internship.git
+git push -u origin main
